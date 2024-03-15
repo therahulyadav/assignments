@@ -14,7 +14,11 @@
 */
 
 function calculateTotalSpentByCategory(transactions) {
-  return [];
+  let ans = [];
+  for(let trans in transactions){
+    let newObj = Object.assign()
+  }
+  return ans;
 }
 
 module.exports = calculateTotalSpentByCategory;
